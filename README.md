@@ -23,9 +23,9 @@ cd my-new-project
 # 3. Install dependencies. Make sure yarn is installed: https://yarnpkg.com/lang/en/docs/install
 yarn
 
-# 4. Replace this README's CI badge with a note about when you started
-# and a link to a compare URL, so that you can always get an overview
-# of new features added to the boilerplate since you cloned.
+# 4. Starting date > Mar 11 2019
+# Original repo > https://github.com/chrisvfritz/vue-enterprise-boilerplate
+# Cloned repo > https://github.com/valentierra/vue3entersite
 node _start.js
 
 # 5. Delete the start script, as there can be only one beginning.
